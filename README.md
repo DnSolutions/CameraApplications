@@ -6,7 +6,8 @@ This sample demonstrates using the Camera2 API to capture a JPEG and RAW sensor 
 Check the source code to see a typical example of how to display the camera preview;
 run auto-focus, auto-exposure metering, and auto-white-balance; capture a JPEG and
 RAW image for the same sensor frame; and save these into MediaStore for use in other
-applications.
+applications.It also gets the meta data for the captured location of the image with reference to 
+Latitude and Longitude.
 
 Introduction
 ------------
